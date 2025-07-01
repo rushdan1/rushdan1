@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rushdan
-- 👀 I’m interested in App devolopement 
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in  Cloud & Data Enthusiast
+- 🌱 I’m currently learning Python & AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram @rushdan_rafae , whatsaap - 6281240097
 
